@@ -1,9 +1,11 @@
 # shop-polymer-project-qa
 
+## 🚧 Project Under Construction 🚧
+
 ## Introduction
 This project is for testing [Polymer Shop](https://shop.polymer-project.org/), an e-commerce test site, for my portfolio. 
 
 ## Directories
-* Manual Testing
-* Automated Testing
-* Bug Reports
+* manual tests
+* automated tests
+* bug reports
