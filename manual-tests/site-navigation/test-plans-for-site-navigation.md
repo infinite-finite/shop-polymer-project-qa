@@ -23,3 +23,7 @@ Functional testing for navigating to the following locations on the site:
 
 * Browser: Chrome, Firefox
 * OS: Windows 11
+
+## Test Coverage
+
+For details regarding test coverage, check out the [Site Navigation Traceability Matrix](../../traceability/manual-tests/site-navigation.md)
