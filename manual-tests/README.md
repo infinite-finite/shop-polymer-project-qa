@@ -7,13 +7,10 @@ This directory contains the manual tests for [Polymer Shop](https://shop.polymer
 Functional testing for the following functionality:
 * site navigation
   * homepage
-  * category PLPs
-    * men's outerwear
-    * ladies outerwear
-    * men's t-shirts
-    * ladies t-shirts
-  * PDP
+  * Product Listing Page (PLP)
+  * Product Details Page (PDP)
   * cart
+  * checkout
 * adding a product to the cart
 * adjusting product quantity within the cart
 * removing a product from the cart
