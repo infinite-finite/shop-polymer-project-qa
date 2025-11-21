@@ -1,14 +1,13 @@
 test-case-id,title,functionality,objective
 TC-001,Navigating to the Homepage,site navigation,the user can navigate to the homepage successfully
-TC-002,Navigating to Men's Outerwear from Global Navigation Menu,site navigation,the user can navigate to the Men's Outerwear PLP from global navigation
-TC-003,Navigating to Men's Outerwear from Homepage Image,site navigation,the user can navigate to the Men's Outerwear PLP from the corresponding homepage image
-TC-004,Navigating to Men's Outerwear from Homepage Shop Now Button,site navigation,the user can navigate to the Men's Outerwear PLP from the corresponding Shop Now button on the homepage
-TC-005,Navigating to Ladies Outerwear from Global Navigation Menu,site navigation,the user can navigate to the Ladies Outerwear PLP from global navigation
-TC-006,Navigating to Ladies's Outerwear from Homepage Image,site navigation,the user can navigate to the Ladies's Outerwear PLP from the corresponding homepage image
-TC-007,Navigating to Ladies's Outerwear from Homepage Shop Now Button,site navigation,the user can navigate to the Ladies's Outerwear PLP from the corresponding Shop Now button on the homepage
-TC-008,Navigating to Men's T-Shirts from Global Navigation Menu,site navigation,the user can navigate to the Men's T-Shirts PLP from global navigation
-TC-009,Navigating to Men's T-Shirts from Homepage Image,site navigation,the user can navigate to the Men's T-Shirts PLP from the corresponding homepage image
-TC-010,Navigating to Men's T-Shirts from Homepage Shop Now Button,site navigation,the user can navigate to the Men's T-Shirts PLP from the corresponding Shop Now button on the homepage
-TC-011,Navigating to Ladies T-Shirts from Global Navigation Menu,site navigation,the user can navigate to the Ladies T-Shirts PLP from global navigation
-TC-012,Navigating to Ladies T-Shirts from Homepage Image,site navigation,the user can navigate to the Ladies T-Shirts PLP from the corresponding homepage image
-TC-013,Navigating to Ladies T-Shirts from Homepage Shop Now Button,site navigation,the user can navigate to the Ladies T-Shirts PLP from the corresponding Shop Now button on the homepage
+TC-002,Navigating to the PLP from the Global Navigation Menu,site navigation,the user can navigate to the PLP from global navigation
+TC-003,Navigating to the PLP from the Homepage Image,site navigation,the user can navigate to the PLP from the corresponding homepage image
+TC-004,Navigating to the PLP from the Homepage Shop Now Button,site navigation,the user can navigate to the PLP from the corresponding Shop Now button on the homepage
+TC-005,Navigating to the PLP from the PDP,site navigation,the user can navigate to the PLP from a PDP
+TC-006,Navigating to the PDP from a PLP,site navigation,the user can access the PDP from a PLP
+TC-007,Navigating to the PDP from the Cart Using Product Image,site navigation,the user can navigate to the PDP from the cart using the product image of an item in the cart
+TC-008,Navigating to the PDP from the Cart Using Product Description,site navigation,the user can navigate to the PDP from the cart using the description of an item in the cart
+TC-009,Navigating to the Cart from Elsewhere on the Site,site navigation,the user can access the cart from elsewhere on the site
+TC-010,Navigating to Checkout from the Cart,site navigation,the user can access the checkout page from the cart
+TC-011,Navigating to Checkout After Adding an Item to the Cart,site navigation,the user can access checkout after adding an item to the cart
+TC-012,Navigating to the Cart After Adding an Item to the Cart,site navigation,the user can access the cart after adding an item to the cart

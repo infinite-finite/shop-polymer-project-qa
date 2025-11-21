@@ -8,14 +8,11 @@ This document outlines the manual testing strategy for navigating the [Polymer S
 
 Functional testing for navigating to the following locations on the site:
 
-* homepage
-* category PLPs
-  * men's outerwear
-  * ladies outerwear
-  * men's t-shirts
-  * ladies t-shirts
-* PDP
-* cart
+* Homepage
+* Product Listing Page (PLP)
+* Product Details Page (PDP)
+* Cart
+* Checkout
 
 ## Test Objectives
 
