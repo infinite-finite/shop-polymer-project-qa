@@ -6,7 +6,7 @@ This project is still being built out. Please excuse the appearance of this READ
 
 ## Introduction
 
-This project is for testing [Polymer Shop](https://shop.polymer-project.org/), an e-commerce test site, and is meant to demonstrate my mastery of manual testing, automated testing using Python and Selenium Webdriver, bug reporting, and tracking business requirements. 
+This project is for testing [Polymer Shop](https://shop.polymer-project.org/), an e-commerce test site, and is meant to demonstrate my mastery of manual testing, bug reporting, and tracking business requirements. 
 
 ## Navigating the Project
 
