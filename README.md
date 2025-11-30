@@ -10,7 +10,7 @@ This project is for testing [Polymer Shop](https://shop.polymer-project.org/), a
 
 ## Navigating the Project
 
-In this repository, you will find several directories containing testing materials I have put together for the [Polymer Shop](https://shop.polymer-project.org/) ecommerce test site, including manual testing materials, automated testing materials, and bug reports. Simply make a selection below to be taken to the README.md for areas that interest you.
+In this repository, you will find several directories containing testing materials I have put together for the [Polymer Shop](https://shop.polymer-project.org/) ecommerce test site. Simply make a selection below to be taken to the README.md for areas that interest you.
 
 ### 💪 [Manual Tests](./manual-tests/README.md)
 
@@ -21,8 +21,6 @@ Functional Testing:
 * adjusting product quantity within the cart
 * removing a product from the cart
 * checkout
-
-### 🦾 Automated Tests
 
 ### 🪲 Bug Reports
 
